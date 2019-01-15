@@ -1,0 +1,16 @@
+{
+  "NodeList": [
+   "http://127.0.0.1:8888"
+  ],
+  "HistoryNodeList":[],
+  "HelloContractAccount": "",
+  "TransferContractAccount":"eosio.token",
+  "TransferUser1":"",
+  "TransferUser2":"",
+  "TransferCoin":"0.0001 EOS",
+  "PrivKey":"",
+  "Tps": 100,
+  "Timeout": 2,
+  "TxExpiration":120,
+  "output_txid":false
+}

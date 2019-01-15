@@ -1,0 +1,30 @@
+[submodule "src/github.com/eoscanada/eos-go"]
+	path = src/github.com/eoscanada/eos-go
+	url = https://github.com/eoscanada/eos-go.git
+[submodule "src/github.com/satori/go.uuid"]
+	path = src/github.com/satori/go.uuid
+	url = https://github.com/satori/go.uuid.git
+[submodule "src/github.com/tidwall/gjson"]
+	path = src/github.com/tidwall/gjson
+	url = https://github.com/tidwall/gjson.git
+[submodule "src/github.com/tidwall/match"]
+	path = src/github.com/tidwall/match
+	url = https://github.com/tidwall/match.git
+[submodule "src/github.com/tidwall/sjson"]
+	path = src/github.com/tidwall/sjson
+	url = https://github.com/tidwall/sjson.git
+[submodule "src/go.uber.org/atomic"]
+	path = src/go.uber.org/atomic
+	url = https://github.com/uber-go/atomic.git
+[submodule "src/go.uber.org/multierr"]
+	path = src/go.uber.org/multierr
+	url = https://github.com/uber-go/multierr.git
+[submodule "src/go.uber.org/zap"]
+	path = src/go.uber.org/zap
+	url = https://github.com/uber-go/zap.git
+[submodule "src/golang.org/x/crypto"]
+	path = src/golang.org/x/crypto
+	url = https://github.com/golang/crypto.gi
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net.git
