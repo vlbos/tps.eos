@@ -24,7 +24,7 @@
 	url = https://github.com/uber-go/zap.git
 [submodule "src/golang.org/x/crypto"]
 	path = src/golang.org/x/crypto
-	url = https://github.com/golang/crypto.gi
+	url = https://github.com/golang/crypto.git
 [submodule "src/golang.org/x/net"]
 	path = src/golang.org/x/net
 	url = https://github.com/golang/net.git
