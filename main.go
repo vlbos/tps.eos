@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/GXK666/tps.eos/send"
-	"github.com/GXK666/tps.eos/verify"
+	"send"
+	"verify"
 	"golang.org/x/net/context"
 )
 
